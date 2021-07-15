@@ -20,5 +20,5 @@ python3 pdf2js.py input.pdf output.json
 python3 notes_crawler.py output.json
 ```
 
-#Add GIF
+#Project GIF
 <img src="./output.gif" alt="My Project GIF" width="800" height="433">
