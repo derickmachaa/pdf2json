@@ -21,4 +21,4 @@ python3 notes_crawler.py output.json
 ```
 
 #Add GIF
-<img src="./output.gif" alt="My Project GIF" width="500" height="600">
+<img src="./output.gif" alt="My Project GIF" width="1360" height="737">
