@@ -7,7 +7,7 @@ sudo apt update
 sudo apt install poppler-utils
 pip3 install pdfminer 
 pip3 install prompt-toolkit
-git clone https://github.com/derickmachaa/pdf2json
+git clone https://github.com/derickmachaa/pdf2json.git
 ```
 #CONVERT PDF 2 JSON 
 ```
