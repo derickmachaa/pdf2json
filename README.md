@@ -16,6 +16,6 @@ python3 pdf2js.py input.pdf output.json
 ```
 
 #SEARCH FOR A TEXT IN JSON
-``
+```
 python3 notes_crawler
 ```
