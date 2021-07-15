@@ -39,6 +39,7 @@ def main():
             total.update({name:notes})
         with open(f"{sys.argv[2]}","w")as file:
             json.dump(total,file,indent=4)
-pdfinfo('python-basics-sample-chapters.pdf')
+        print()
+        print("Done!!!")
 if __name__ == "__main__":
     main()
