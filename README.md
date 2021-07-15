@@ -19,3 +19,6 @@ python3 pdf2js.py input.pdf output.json
 ```
 python3 notes_crawler.py output.json
 ```
+
+#Add GIF
+<img src="./pdf.mp4" alt="My Project GIF" width="500" height="600">
