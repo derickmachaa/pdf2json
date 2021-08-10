@@ -9,7 +9,6 @@ def help():
     print(f"Usage:\n{os.path.basename(sys.argv[0])} output.json input.pdf\nYou can also specify multiple comma seperated files as input: input.pdf,input1.pdf,input3.pdf as long as file names dont contain ,")
 
 def pdfinfo(filename):
-    print(filename)
     cmd=f'pdfinfo "{filename}"'
     if not os.path.exists(filename):
         print(f"file {filename} does not exists")
